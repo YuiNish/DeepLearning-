@@ -1,0 +1,7 @@
+CREATE TABLE weather(
+hiduke DATE,
+temp FLOAT,
+pres FLOAT,
+humi FLOAT,
+PRIMARY KEY(hiduke)
+);
